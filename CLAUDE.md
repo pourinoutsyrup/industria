@@ -64,13 +64,14 @@ path: ^1.8.3           # Path utilities
 http: ^1.1.0           # HTTP client for API calls
 image_picker: ^1.0.0   # Image selection
 camera: ^0.10.0        # Camera access
-google_ml_kit: ^0.13.0 # OCR for lab results
 mobile_scanner: ^3.4.0 # Barcode scanning
 provider: ^6.0.0       # State management
 intl: ^0.19.0          # Internationalization
 uuid: ^4.0.0           # UUID generation
 fl_chart: ^0.65.0      # Charts for trend visualization
 ```
+
+**Note**: OCR functionality (google_ml_kit) will be added in Phase 2 for lab result scanning.
 
 ### Planned File Structure
 ```
